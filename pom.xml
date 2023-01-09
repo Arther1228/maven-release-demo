@@ -57,7 +57,7 @@
         <snapshotRepository>
             <!-- 对应settings.xml内配置的<server>下的id -->
             <id>ossrh</id>
-            <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
+            <url>https://s01.oss.sonatype.org/content/repositories/snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
